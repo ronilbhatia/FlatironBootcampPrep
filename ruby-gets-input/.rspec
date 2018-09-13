@@ -1,0 +1,6 @@
+--color
+<<<<<<< HEAD
+--format documentation
+=======
+>>>>>>> ruby-gets-input/master
+--require spec_helper

@@ -1,0 +1,12 @@
+tags:
+<<<<<<< HEAD
+  - tag1
+languages:
+  - language1
+=======
+  - gets
+  - cli
+languages:
+  - ruby
+>>>>>>> ruby-gets-input/master
+resources: 0
