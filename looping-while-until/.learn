@@ -1,0 +1,17 @@
+tags:
+<<<<<<< HEAD
+  - method composition
+  - recursion
+  - tictactoe
+languages:
+  - ruby
+resources: 0
+=======
+  - readme
+  - looping
+  - while
+  - until
+languages:
+  - ruby
+resources: 0
+>>>>>>> looping-while-until/master
