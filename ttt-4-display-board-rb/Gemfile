@@ -1,0 +1,13 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem 'rspec'
+<<<<<<< HEAD
+gem 'pry'
+=======
+gem 'pry'
+gem 'rake'
+gem 'require_all'
+>>>>>>> ttt-4-display-board-rb/master

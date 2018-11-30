@@ -1,0 +1,19 @@
+tags:
+<<<<<<< HEAD
+  - gets
+  - cli
+languages:
+  - ruby
+resources: 0
+=======
+  - methods
+  - arrays
+  - reading array
+  - method arguments
+  - puts
+  - tdd
+  - writing tests
+languages:
+  - language1
+resources: 0
+>>>>>>> ttt-4-display-board-rb/master
