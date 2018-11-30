@@ -1,0 +1,18 @@
+tags:
+<<<<<<< HEAD
+  - variable assignment
+  - variables
+languages:
+  - ruby
+resources: 2
+
+=======
+  - introduction
+  - error messages
+  - lecture
+languages:
+  - ruby
+type:
+  - video
+  - lab
+>>>>>>> ruby-lecture-reading-error-messages/master
