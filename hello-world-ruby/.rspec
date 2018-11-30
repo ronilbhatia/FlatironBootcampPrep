@@ -1,0 +1,8 @@
+--color
+<<<<<<< HEAD
+--format documentation
+--require spec_helper
+=======
+--require spec_helper
+--format documentation
+>>>>>>> hello-world-ruby/master
