@@ -1,0 +1,13 @@
+tags:
+<<<<<<< HEAD
+  - methods
+  - puts
+  - strings
+=======
+  - variables
+  - arrays
+  - tictactoe
+>>>>>>> ttt-2-board-rb/master
+languages:
+  - ruby
+resources: 0
