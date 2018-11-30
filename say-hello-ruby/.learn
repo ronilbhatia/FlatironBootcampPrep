@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+tags:
+  - interpolation
+  - strings
+  - arrays
+languages:
+  - ruby
+resources: 0
+=======
+languages:
+  - ruby
+tags:
+  - methods
+  - arguments
+  - variables
+  - default arguments
+resources: 1
+
+>>>>>>> say-hello-ruby/master
