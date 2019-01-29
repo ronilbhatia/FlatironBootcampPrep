@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -31,6 +32,10 @@ reated by https://www.gitignore.io/api/node
 =======
 # Created by https://www.gitignore.io/api/node
 >>>>>>> javascript-objects-lab/master
+=======
+
+# Created by https://www.gitignore.io/api/node
+>>>>>>> javascript-objects/master
 
 ### Node ###
 # Logs
@@ -77,6 +82,7 @@ jspm_packages
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .results.json
 <<<<<<< HEAD
 >>>>>>> javascript-arrays/master
@@ -115,3 +121,6 @@ node_modules
 # Learn-specific .results.json
 .results.json
 >>>>>>> javascript-objects-lab/master
+=======
+.results.json
+>>>>>>> javascript-objects/master
