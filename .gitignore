@@ -13,6 +13,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -53,6 +54,9 @@ reated by https://www.gitignore.io/api/node
 
 # Created by https://www.gitignore.io/api/node
 >>>>>>> js-functions-lab/master
+=======
+# Created by https://www.gitignore.io/api/node
+>>>>>>> javascript-intro-to-functions/master
 
 ### Node ###
 # Logs
@@ -92,6 +96,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 <<<<<<< HEAD
@@ -148,10 +153,14 @@ node_modules
 =======
 =======
 >>>>>>> javascript-arithmetic-lab/master
+=======
+
+>>>>>>> javascript-intro-to-functions/master
 # Learn-specific .results.json
 .results.json
 
 *.solution.*
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> javascript-arrays-lab/master
 =======
@@ -162,3 +171,5 @@ node_modules
 =======
 .results.json
 >>>>>>> js-functions-lab/master
+=======
+>>>>>>> javascript-intro-to-functions/master
