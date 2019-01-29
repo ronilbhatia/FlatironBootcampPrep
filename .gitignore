@@ -10,6 +10,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -40,6 +41,9 @@ reated by https://www.gitignore.io/api/node
 =======
 # Created by https://www.gitignore.io/api/node
 >>>>>>> javascript-arrays-lab/master
+=======
+# Created by https://www.gitignore.io/api/node
+>>>>>>> javascript-fix-the-scope-lab/master
 
 ### Node ###
 # Logs
@@ -80,6 +84,7 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -135,3 +140,6 @@ node_modules
 
 *.solution.*
 >>>>>>> javascript-arrays-lab/master
+=======
+.results.json
+>>>>>>> javascript-fix-the-scope-lab/master
