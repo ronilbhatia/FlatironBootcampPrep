@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -58,3 +59,8 @@ jspm_packages
 .results.json
 node_modules
 >>>>>>> js-jquery-event-listeners/master
+=======
+.DS_Store
+node_modules
+.results.json
+>>>>>>> jquery-selectors/master
