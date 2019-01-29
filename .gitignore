@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -51,3 +52,9 @@ jspm_packages
 >>>>>>> javascript-arrays/master
 =======
 >>>>>>> javascript-intro-to-looping/master
+=======
+.DS_Store
+*.log
+.results.json
+node_modules
+>>>>>>> js-jquery-event-listeners/master
