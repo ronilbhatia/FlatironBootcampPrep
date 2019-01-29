@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -18,6 +19,9 @@ coverage/
 =======
 reated by https://www.gitignore.io/api/node
 >>>>>>> js-basics-online-shopping-lab/master
+=======
+# Created by https://www.gitignore.io/api/node
+>>>>>>> js-deli-counter/master
 
 ### Node ###
 # Logs
@@ -61,6 +65,7 @@ jspm_packages
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .results.json
 <<<<<<< HEAD
 >>>>>>> javascript-arrays/master
@@ -88,3 +93,7 @@ node_modules
 =======
 .results.json
 >>>>>>> js-basics-online-shopping-lab/master
+=======
+# Learn-specific .results.json
+.results.json
+>>>>>>> js-deli-counter/master
