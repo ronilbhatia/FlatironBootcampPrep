@@ -1,0 +1,17 @@
+tags:
+<<<<<<< HEAD
+  - document ready
+  - jquery
+languages:
+  - JavaScript
+resources: 
+  - 2
+=======
+  - jquery
+  - selectors
+  - methods
+languages:
+  - jQuery
+resources: 
+  - 0
+>>>>>>> js-jquery-modify-html-lab/master
