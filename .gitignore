@@ -2,11 +2,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
 >>>>>>> javascript-intro-to-looping/master
 
+=======
+>>>>>>> konami-code-lab/master
 # Created by https://www.gitignore.io/api/node
 
 ### Node ###
@@ -48,6 +51,7 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+<<<<<<< HEAD
 .results.json
 <<<<<<< HEAD
 >>>>>>> javascript-arrays/master
@@ -64,3 +68,7 @@ node_modules
 node_modules
 .results.json
 >>>>>>> jquery-selectors/master
+=======
+# Learn-specific .results.json
+.results.json
+>>>>>>> konami-code-lab/master
