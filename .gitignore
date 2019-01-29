@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -48,6 +49,10 @@ reated by https://www.gitignore.io/api/node
 =======
 # Created by https://www.gitignore.io/api/node
 >>>>>>> javascript-arithmetic-lab/master
+=======
+
+# Created by https://www.gitignore.io/api/node
+>>>>>>> js-functions-lab/master
 
 ### Node ###
 # Logs
@@ -87,6 +92,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -153,3 +159,6 @@ node_modules
 >>>>>>> javascript-fix-the-scope-lab/master
 =======
 >>>>>>> javascript-arithmetic-lab/master
+=======
+.results.json
+>>>>>>> js-functions-lab/master
