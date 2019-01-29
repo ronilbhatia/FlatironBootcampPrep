@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -14,6 +15,9 @@ coverage/
 =======
 >>>>>>> javascript-hide-and-seek/master
 # Created by https://www.gitignore.io/api/node
+=======
+reated by https://www.gitignore.io/api/node
+>>>>>>> js-basics-online-shopping-lab/master
 
 ### Node ###
 # Logs
@@ -56,6 +60,7 @@ jspm_packages
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .results.json
 <<<<<<< HEAD
 >>>>>>> javascript-arrays/master
@@ -80,3 +85,6 @@ node_modules
 # Learn-specific .results.json
 .results.json
 >>>>>>> javascript-hide-and-seek/master
+=======
+.results.json
+>>>>>>> js-basics-online-shopping-lab/master
