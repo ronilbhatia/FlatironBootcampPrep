@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
+=======
+>>>>>>> javascript-intro-to-looping/master
 
 # Created by https://www.gitignore.io/api/node
 
@@ -44,4 +47,7 @@ jspm_packages
 .node_repl_history
 
 .results.json
+<<<<<<< HEAD
 >>>>>>> javascript-arrays/master
+=======
+>>>>>>> javascript-intro-to-looping/master
