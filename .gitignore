@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -10,6 +11,8 @@ coverage/
 
 =======
 >>>>>>> konami-code-lab/master
+=======
+>>>>>>> javascript-hide-and-seek/master
 # Created by https://www.gitignore.io/api/node
 
 ### Node ###
@@ -52,6 +55,7 @@ jspm_packages
 .node_repl_history
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .results.json
 <<<<<<< HEAD
 >>>>>>> javascript-arrays/master
@@ -72,3 +76,7 @@ node_modules
 # Learn-specific .results.json
 .results.json
 >>>>>>> konami-code-lab/master
+=======
+# Learn-specific .results.json
+.results.json
+>>>>>>> javascript-hide-and-seek/master
