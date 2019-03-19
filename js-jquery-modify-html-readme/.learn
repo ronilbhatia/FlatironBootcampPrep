@@ -1,5 +1,6 @@
 tags:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - JS
   - selectors
 languages:
@@ -13,3 +14,12 @@ languages:
 resources:
   - 1
 >>>>>>> moving-things-with-javascript/master
+=======
+  - jquery
+  - selectors
+  - methods
+languages:
+  - jQuery
+resources: 
+  - 0
+>>>>>>> js-jquery-modify-html-readme/master
