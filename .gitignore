@@ -14,6 +14,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -57,6 +58,10 @@ reated by https://www.gitignore.io/api/node
 =======
 # Created by https://www.gitignore.io/api/node
 >>>>>>> javascript-intro-to-functions/master
+=======
+
+# Created by https://www.gitignore.io/api/node
+>>>>>>> js-what-is-a-test-lab/master
 
 ### Node ###
 # Logs
@@ -96,6 +101,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -173,3 +179,6 @@ node_modules
 >>>>>>> js-functions-lab/master
 =======
 >>>>>>> javascript-intro-to-functions/master
+=======
+.results.json
+>>>>>>> js-what-is-a-test-lab/master

@@ -1,0 +1,16 @@
+tags:
+<<<<<<< HEAD
+  - tag_1
+  - tag_2
+languages:
+  - language_1
+  - language_1
+resources: 0
+=======
+  - JS
+  - selectors
+languages:
+  - JS
+resources: 
+  - 0
+>>>>>>> js-what-is-a-test-lab/master
