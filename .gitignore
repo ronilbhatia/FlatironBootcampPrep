@@ -16,6 +16,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coverage/
 =======
 =======
@@ -67,6 +68,9 @@ reated by https://www.gitignore.io/api/node
 
 # Created by https://www.gitignore.io/api/node
 >>>>>>> js-what-is-a-test/master
+=======
+# Created by https://www.gitignore.io/api/node
+>>>>>>> moving-things-with-javascript/master
 
 ### Node ###
 # Logs
@@ -106,6 +110,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -191,3 +196,8 @@ node_modules
 =======
 .results.json
 >>>>>>> js-what-is-a-test/master
+=======
+
+# Learn-specific .results.json
+.results.json
+>>>>>>> moving-things-with-javascript/master

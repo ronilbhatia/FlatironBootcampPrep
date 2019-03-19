@@ -1,7 +1,15 @@
 tags:
+<<<<<<< HEAD
   - JS
   - selectors
 languages:
   - JS
 resources: 
   - 0
+=======
+  - javascript
+languages:
+  - javascript
+resources:
+  - 1
+>>>>>>> moving-things-with-javascript/master
